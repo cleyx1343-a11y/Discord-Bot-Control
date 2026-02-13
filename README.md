@@ -18,5 +18,7 @@ py main.py
 
 More updates will come, but idk they will be here soon so cya when update drops
 
-#Update 1
+# Update 1
 start up file has been added
+
+Just run setup.bat to set up it easily
