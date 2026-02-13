@@ -8,7 +8,7 @@ To see your messages in DM's refresh the DM Page (Click "Open DM by id" again)
 Open your cmd and type
 Git clone https://github.com/cleyx1343-a11y/Discord-Bot-Control
 cd Discord-Bot-Control
-pip i -r requirements.txt
+pip install -r requirements.txt
 
 # How to connect to bot?
 Copy your bot's token by Discord Dev Portal, then open the .py file and paste it into where it says BOT_TOKEN="Your_Bot_Token_here"
