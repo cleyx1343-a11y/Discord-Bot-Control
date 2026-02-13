@@ -17,3 +17,6 @@ Copy your bot's token by Discord Dev Portal, then open the .py file and paste it
 py main.py
 
 More updates will come, but idk they will be here soon so cya when update drops
+
+#Update 1
+start up file has been added
